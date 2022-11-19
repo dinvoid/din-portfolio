@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/din-portfolio/static/css/main.a6da4830.css",
+    "main.js": "/din-portfolio/static/js/main.acdadd52.js",
+    "static/media/cv.pdf": "/din-portfolio/static/media/cv.1676dcdc83730930d888.pdf",
+    "static/media/feedbackport.png": "/din-portfolio/static/media/feedbackport.7c0ab040df26ee962f67.png",
+    "static/media/portfolioimage.png": "/din-portfolio/static/media/portfolioimage.617363379d57bbca439b.png",
+    "static/media/clock.png": "/din-portfolio/static/media/clock.a5e81032a4a1458f1945.png",
+    "static/media/javadocumentation.png": "/din-portfolio/static/media/javadocumentation.de8dc734ae26c56a948d.png",
+    "static/media/qoutes.png": "/din-portfolio/static/media/qoutes.b750455f6f82f21ffcc0.png",
+    "static/media/ako.jpg": "/din-portfolio/static/media/ako.723c54a81113a4039129.jpg",
+    "static/media/webdes.svg": "/din-portfolio/static/media/webdes.e84486fda43eb6f592bdf7a8df1631fd.svg",
+    "static/media/guessnum.png": "/din-portfolio/static/media/guessnum.93a3e90f4994aa15a6d9.png",
+    "static/media/dinasaur.png": "/din-portfolio/static/media/dinasaur.63f1d083e6e992b835b4.png",
+    "static/media/weatherapp1.png": "/din-portfolio/static/media/weatherapp1.458f3e290690e653c68f.png",
+    "static/media/crud1.png": "/din-portfolio/static/media/crud1.63dbfd636f270e2440d4.png",
+    "static/media/art.svg": "/din-portfolio/static/media/art.258bc77a67b62a8789acdfb04f9bda97.svg",
+    "static/media/webdev.svg": "/din-portfolio/static/media/webdev.de6bfd79a2e8f71fc21276a440bbc476.svg",
+    "index.html": "/din-portfolio/index.html",
+    "main.a6da4830.css.map": "/din-portfolio/static/css/main.a6da4830.css.map",
+    "main.acdadd52.js.map": "/din-portfolio/static/js/main.acdadd52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6da4830.css",
+    "static/js/main.acdadd52.js"
+  ]
+}

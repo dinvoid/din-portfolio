@@ -1,6 +1,6 @@
 {
     "homepage": "http://dinvoid.github.io/din-portfolio",
-    "name": "portfolio-app",
+    "name": "din-portfolio",
     "version": "0.1.0",
     "private": true,
     "dependencies": {

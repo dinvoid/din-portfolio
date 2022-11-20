@@ -5,7 +5,7 @@ import Allproject from './components/allproject/Allproject'
 import './index.css';
 import {
     createBrowserRouter,
-    RouterProvider
+    RouterProvider,
 
 } from "react-router-dom";
 

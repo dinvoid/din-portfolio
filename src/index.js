@@ -24,6 +24,8 @@ const container = document.getElementById('root');
 
 const root = ReactDOMClient.createRoot(container);
 root.render( <
-    RouterProvider router = { router }
+     <React.StrictMode>
+         <RouterProvider router={router} />
+     </React.StrictMode>
     />
 );
